@@ -1,6 +1,9 @@
 .container{
     border-radius: 5%;
 }
+#Home{
+    margin-top: 6%;
+}
 .australia{
     background-color: #fceae8;
 }
