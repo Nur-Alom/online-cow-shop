@@ -4,6 +4,10 @@
 #Home{
     margin-top: 6%;
 }
+.Catagoris img{
+    width: 100px;
+    height: 100px;
+}
 .australia{
     background-color: #fceae8;
 }
